@@ -1,14 +1,95 @@
 {
+  "version": "1.0",
   "types": [
     {
       "name": "fire",
       "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/fire.png",
-      "ui_color": "#FF4422"
+      "colors": { "primary": "#F08030", "secondary": "#9C531F", "text": "#FFFFFF" }
     },
     {
       "name": "water",
       "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/water.png",
-      "ui_color": "#3399FF"
+      "colors": { "primary": "#6890F0", "secondary": "#445E9C", "text": "#FFFFFF" }
+    },
+    {
+      "name": "grass",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/grass.png",
+      "colors": { "primary": "#78C850", "secondary": "#4E8234", "text": "#FFFFFF" }
+    },
+    {
+      "name": "electric",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/electric.png",
+      "colors": { "primary": "#F8D030", "secondary": "#A1871F", "text": "#000000" }
+    },
+    {
+      "name": "ice",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/ice.png",
+      "colors": { "primary": "#98D8D8", "secondary": "#638D8D", "text": "#000000" }
+    },
+    {
+      "name": "fighting",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/fighting.png",
+      "colors": { "primary": "#C03028", "secondary": "#7D1F1A", "text": "#FFFFFF" }
+    },
+    {
+      "name": "poison",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/poison.png",
+      "colors": { "primary": "#A040A0", "secondary": "#682A68", "text": "#FFFFFF" }
+    },
+    {
+      "name": "ground",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/ground.png",
+      "colors": { "primary": "#E0C068", "secondary": "#927D44", "text": "#000000" }
+    },
+    {
+      "name": "flying",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/flying.png",
+      "colors": { "primary": "#A890F0", "secondary": "#6D5E9C", "text": "#FFFFFF" }
+    },
+    {
+      "name": "psychic",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/psychic.png",
+      "colors": { "primary": "#F85888", "secondary": "#A13959", "text": "#FFFFFF" }
+    },
+    {
+      "name": "bug",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/bug.png",
+      "colors": { "primary": "#A8B820", "secondary": "#6D7815", "text": "#FFFFFF" }
+    },
+    {
+      "name": "rock",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/rock.png",
+      "colors": { "primary": "#B8A038", "secondary": "#786824", "text": "#FFFFFF" }
+    },
+    {
+      "name": "ghost",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/ghost.png",
+      "colors": { "primary": "#705898", "secondary": "#493963", "text": "#FFFFFF" }
+    },
+    {
+      "name": "dragon",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/dragon.png",
+      "colors": { "primary": "#7038F8", "secondary": "#4924A1", "text": "#FFFFFF" }
+    },
+    {
+      "name": "dark",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/dark.png",
+      "colors": { "primary": "#705848", "secondary": "#49392F", "text": "#FFFFFF" }
+    },
+    {
+      "name": "steel",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/steel.png",
+      "colors": { "primary": "#B8B8D0", "secondary": "#787887", "text": "#000000" }
+    },
+    {
+      "name": "fairy",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/fairy.png",
+      "colors": { "primary": "#EE99AC", "secondary": "#9B6470", "text": "#FFFFFF" }
+    },
+    {
+      "name": "normal",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/normal.png",
+      "colors": { "primary": "#A8A878", "secondary": "#6D6D4E", "text": "#FFFFFF" }
     }
   ]
 }
