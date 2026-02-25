@@ -1,0 +1,14 @@
+{
+  "types": [
+    {
+      "name": "fire",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/fire.png",
+      "ui_color": "#FF4422"
+    },
+    {
+      "name": "water",
+      "icon_url": "https://raw.githubusercontent.com/YourUser/YourRepo/main/icons/water.png",
+      "ui_color": "#3399FF"
+    }
+  ]
+}
