@@ -4,92 +4,110 @@
     {
       "name": "fire",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/fire.png",
-      "colors": { "primary": "#F08030", "secondary": "#9C531F", "text": "#FFFFFF" }
+      "colors": { "primary": "#F08030", "secondary": "#9C531F", "text": "#FFFFFF" },
+      "strategy": "Strong against Grass, Bug, Ice, and Steel. Watch out for Water, Rock, and Ground types."
     },
     {
       "name": "water",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/water.png",
-      "colors": { "primary": "#6890F0", "secondary": "#445E9C", "text": "#FFFFFF" }
+      "colors": { "primary": "#6890F0", "secondary": "#445E9C", "text": "#FFFFFF" },
+      "strategy": "Highly effective against Fire, Ground, and Rock. Keep away from Electric and Grass attacks."
     },
     {
       "name": "grass",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/grass.png",
-      "colors": { "primary": "#78C850", "secondary": "#4E8234", "text": "#FFFFFF" }
+      "colors": { "primary": "#78C850", "secondary": "#4E8234", "text": "#FFFFFF" },
+      "strategy": "Great against Water, Ground, and Rock. Vulnerable to Fire, Ice, Poison, Flying, and Bug."
     },
     {
       "name": "electric",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/electric.png",
-      "colors": { "primary": "#F8D030", "secondary": "#A1871F", "text": "#000000" }
+      "colors": { "primary": "#F8D030", "secondary": "#A1871F", "text": "#000000" },
+      "strategy": "Shocks Water and Flying types. Completely powerless against Ground types."
     },
     {
       "name": "ice",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/ice.png",
-      "colors": { "primary": "#98D8D8", "secondary": "#638D8D", "text": "#000000" }
+      "colors": { "primary": "#98D8D8", "secondary": "#638D8D", "text": "#000000" },
+      "strategy": "Freezes Grass, Ground, Flying, and Dragon types. Weak to Fire, Fighting, Rock, and Steel."
     },
     {
       "name": "fighting",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/fighting.png",
-      "colors": { "primary": "#C03028", "secondary": "#7D1F1A", "text": "#FFFFFF" }
+      "colors": { "primary": "#C03028", "secondary": "#7D1F1A", "text": "#FFFFFF" },
+      "strategy": "Pummels Normal, Ice, Rock, Dark, and Steel. Struggles against Flying, Psychic, and Fairy."
     },
     {
       "name": "poison",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/poison.png",
-      "colors": { "primary": "#A040A0", "secondary": "#682A68", "text": "#FFFFFF" }
+      "colors": { "primary": "#A040A0", "secondary": "#682A68", "text": "#FFFFFF" },
+      "strategy": "Toxic to Grass and Fairy types. Weak against Ground and Psychic types."
     },
     {
       "name": "ground",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/ground.png",
-      "colors": { "primary": "#E0C068", "secondary": "#927D44", "text": "#000000" }
+      "colors": { "primary": "#E0C068", "secondary": "#927D44", "text": "#000000" },
+      "strategy": "Crushes Fire, Electric, Poison, Rock, and Steel. Weak to Water, Grass, and Ice."
     },
     {
       "name": "flying",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/flying.png",
-      "colors": { "primary": "#A890F0", "secondary": "#6D5E9C", "text": "#FFFFFF" }
+      "colors": { "primary": "#A890F0", "secondary": "#6D5E9C", "text": "#FFFFFF" },
+      "strategy": "Dominates Grass, Fighting, and Bug. Takes heavy damage from Electric, Ice, and Rock."
     },
     {
       "name": "psychic",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/psychic.png",
-      "colors": { "primary": "#F85888", "secondary": "#A13959", "text": "#FFFFFF" }
+      "colors": { "primary": "#F85888", "secondary": "#A13959", "text": "#FFFFFF" },
+      "strategy": "Overpowers Fighting and Poison types. Vulnerable to Bug, Ghost, and Dark types."
     },
     {
       "name": "bug",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/bug.png",
-      "colors": { "primary": "#A8B820", "secondary": "#6D7815", "text": "#FFFFFF" }
+      "colors": { "primary": "#A8B820", "secondary": "#6D7815", "text": "#FFFFFF" },
+      "strategy": "Effective against Grass, Psychic, and Dark. Easily swatted by Fire, Flying, and Rock."
     },
     {
       "name": "rock",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/rock.png",
-      "colors": { "primary": "#B8A038", "secondary": "#786824", "text": "#FFFFFF" }
+      "colors": { "primary": "#B8A038", "secondary": "#786824", "text": "#FFFFFF" },
+      "strategy": "Smmashes Fire, Ice, Flying, and Bug. Weak against Water, Grass, Fighting, Ground, and Steel."
     },
     {
       "name": "ghost",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/ghost.png",
-      "colors": { "primary": "#705898", "secondary": "#493963", "text": "#FFFFFF" }
+      "colors": { "primary": "#705898", "secondary": "#493963", "text": "#FFFFFF" },
+      "strategy": "Spooks Psychic and other Ghost types. Takes extra damage from Ghost and Dark moves."
     },
     {
       "name": "dragon",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/dragon.png",
-      "colors": { "primary": "#7038F8", "secondary": "#4924A1", "text": "#FFFFFF" }
+      "colors": { "primary": "#7038F8", "secondary": "#4924A1", "text": "#FFFFFF" },
+      "strategy": "Devastating against other Dragons. Weak to Ice, Fairy, and opposing Dragon types."
     },
     {
       "name": "dark",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/dark.png",
-      "colors": { "primary": "#705848", "secondary": "#49392F", "text": "#FFFFFF" }
+      "colors": { "primary": "#705848", "secondary": "#49392F", "text": "#FFFFFF" },
+      "strategy": "Highly effective against Psychic and Ghost. Weak to Fighting, Bug, and Fairy types."
     },
     {
       "name": "steel",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/steel.png",
-      "colors": { "primary": "#B8B8D0", "secondary": "#787887", "text": "#000000" }
+      "colors": { "primary": "#B8B8D0", "secondary": "#787887", "text": "#000000" },
+      "strategy": "Tough against Ice, Rock, and Fairy. Melts under Fire, Fighting, and Ground attacks."
     },
     {
       "name": "fairy",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/fairy.png",
-      "colors": { "primary": "#EE99AC", "secondary": "#9B6470", "text": "#FFFFFF" }
+      "colors": { "primary": "#EE99AC", "secondary": "#9B6470", "text": "#FFFFFF" },
+      "strategy": "Enchants Fighting, Dragon, and Dark types. Weak against Poison and Steel."
     },
     {
       "name": "normal",
       "icon_url": "https://raw.githubusercontent.com/dfwrizzo/poke-api-extension/main/icons/normal.png",
-      "colors": { "primary": "#A8A878", "secondary": "#6D6D4E", "text": "#FFFFFF" }
+      "colors": { "primary": "#A8A878", "secondary": "#6D6D4E", "text": "#FFFFFF" },
+      "strategy": "No specific offensive advantages, but immune to Ghost types. Weak to Fighting types."
     }
   ]
 }
